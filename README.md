@@ -16,7 +16,6 @@
 - 🔬 Researching multimodal stress assessment on wearable physiological signals (ECG + EDA), with a focus on **explainable AI (Grad-CAM)** — advised by Dr. Anu Mary Chacko
 - 🛠️ Build and deploy full-stack applications end-to-end — MERN stack, containerized with Docker, shipped to production (Render/Vercel), several with a real trained ML or LLM component wired in
 - 🧮 350+ problems solved on LeetCode (**Knight** badge) — C++ and Python
-- 🌱 Aiming to pursue a **PhD in Machine Learning**
 
 ---
 
